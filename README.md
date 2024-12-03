@@ -1,6 +1,6 @@
-# FitQuest - Gamified Fitness Tracking Webapp
+# TrailBlaze - Gamified Fitness Tracking Webapp
 
-**FitQuest** is your go-to platform for a transformative fitness experience. Engage in exhilarating fitness activities, conquer daily and weekly challenges, and climb the leaderboards to measure your progress against others. Whether you're a seasoned fitness enthusiast or just starting your wellness journey, FitQuest is here to support and inspire you.
+**TrailBlaze** is your go-to platform for a transformative fitness experience. Engage in exhilarating fitness activities, conquer daily and weekly challenges, and climb the leaderboards to measure your progress against others. Whether you're a seasoned fitness enthusiast or just starting your wellness journey, TrailBlaze is here to support and inspire you.
 
 ## 🌟 Frontend Pages
 
@@ -22,15 +22,9 @@ Dedicated fitness enthusiasts can track progress, take on challenges, and connec
 
 ![Login Page](https://github.com/audacity07/posh-division-4370/assets/130354961/27cbbb9b-416b-447d-90f2-a71c92bb36ca)
 
-### . Admin Page 🔒
-
-For authorized personnel, the Admin Page provides administrative tools to oversee user accounts, challenges, and other vital components of our fitness journey.
-![admin](https://github.com/audacity07/posh-division-4370/assets/130354961/a145e7ca-c04a-44e2-a5f9-24d98ea8cf49)
-![admin1](https://github.com/audacity07/posh-division-4370/assets/130354961/7a839d05-37f9-4092-b285-65f8307f83ec)
-
 ## 🚀 Tech Stacks
 
-FitQuest is built on a solid foundation:
+TrailBlaze is built on a solid foundation:
 
 - **HTML**: Providing the structure for our digital creation.
 - **CSS**: Adding finesse and elegance to the user interface.
@@ -43,7 +37,7 @@ FitQuest is built on a solid foundation:
 
 Our robust Backend Server furnishes the application with essential data and functionality, presenting a tapestry of endpoints:
 
-- **Swagger Docs**: [https://fitquest-d60w.onrender.com/api-docs/](https://fitquest-d60w.onrender.com/api-docs/)
+- **Swagger Docs**: [https://TrailBlaze-d60w.onrender.com/api-docs/](https://fitquest-d60w.onrender.com/api-docs/)
 - **Endpoints**:
   1. `/users`: Seamlessly manage user data, including registration and authentication.
   2. `/activity`: Immerse yourself in our fitness offerings, exploring comprehensive information about each engaging workout routine and challenge.
@@ -51,12 +45,12 @@ Our robust Backend Server furnishes the application with essential data and func
 
 ## 🌐 Deployment
 
-The masterpiece, FITQUEST, now shines brightly on the digital horizon, powered by Vercel. Embark on your fitness journey by following this guiding star:
+The masterpiece, TrailBlaze, now shines brightly on the digital horizon, powered by Vercel. Embark on your fitness journey by following this guiding star:
 
-<h1><strong>Vercel Link:</strong> <a href="https://fit-quest-gamified-fitness-tracking-webapp.vercel.app/">FitQuest</a></h1>
+<h1><strong>Vercel Link:</strong> <a href="http://trailblaze-one.vercel.app/">TrailBlaze</a></h1>
 
 Explore the exciting features, and should you encounter any challenges or wish to share your fitness insights, our "Reviews" page eagerly awaits your participation.
 
-We extend our sincerest gratitude for choosing FITQUEST. May your fitness journey with us be a symphony of well-being and vitality. If you have any inquiries or require fitness assistance, our dedicated support team stands poised to assist.
+We extend our sincerest gratitude for choosing TrailBlaze. May your fitness journey with us be a symphony of well-being and vitality. If you have any inquiries or require fitness assistance, our dedicated support team stands poised to assist.
 
-**Step into the world of fitness with FITQUEST!** 🏃‍♂🚴‍♂️
+**Step into the world of fitness with TrailBlaze!** 🏃‍♂🚴‍♂️
